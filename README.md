@@ -17,6 +17,6 @@
 ![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/5.PNG)
 # hasil6
 ![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/file6.php)
-![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/variabel_hasil.php)
 ![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/6.1.PNG)
+![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/variabel_hasil.php)
 ![AltText](https://github.com/yuliusjati/PHP1-2/blob/master/6.2.PNG)
